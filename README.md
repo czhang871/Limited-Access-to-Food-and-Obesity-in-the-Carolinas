@@ -8,3 +8,10 @@ What is the data for?
 Where did the data come from?
 ## Potential
 What might this data and its analysis show us (what might we learn from it)?
+
+1. Potential Use
+2. Secondary Potential Use
+### Add inline image of data visualization to illustrate
+
+### Acknowledgements
+This repository was created for Prof. Gotzler's ENGL-105.075 class, a project for our unit on writing in the Natural Sciences. All data is publicly accessible (add permission statement)
