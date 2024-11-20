@@ -6,7 +6,7 @@ This repository contains data about population levels with limited access to foo
 What is the data for?
 ## Provenance
 Where did the data come from?
-- [source](add URL)
+- [source](add URL) --> say came from county public health data from prof. gotzler (link to webpage for the file)
 ## Potential
 What might this data and its analysis show us (what might we learn from it)?
 
