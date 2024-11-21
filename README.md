@@ -19,5 +19,6 @@ This repository contains data about population levels with limited access to foo
 ![SP1i6-population-with-limited-access-to-food-vs-adult-obesity-nbsp-](https://github.com/user-attachments/assets/ee5fcf77-b160-492d-bc3d-a19ae1831415)
 
 - This compares the percentages of the population containing both attributes on a single graph for ease of analysis
+- This visualization was created with [Datawrapper](https://www.datawrapper.de/)
 ### Acknowledgements
 This repository was created for Prof. Gotzler's ENGL-105.075 class, a project for our unit on writing in the Natural Sciences. All data is publicly accessible.
