@@ -20,8 +20,9 @@ What might this data and its analysis show us (what might we learn from it)?
 2. Secondary Potential Use
 ### Data visualization
 - The subset containing information about population statistics surrounding access to healthy food and adult obesity can be visualized like so:
+  
 ![SP1i6-population-with-limited-access-to-food-vs-adult-obesity-nbsp-](https://github.com/user-attachments/assets/ee5fcf77-b160-492d-bc3d-a19ae1831415)
 
-
+- This compares the percentages of the population containing both attributes on a single graph for ease of analysis
 ### Acknowledgements
 This repository was created for Prof. Gotzler's ENGL-105.075 class, a project for our unit on writing in the Natural Sciences. All data is publicly accessible.
