@@ -8,7 +8,8 @@ This repository contains data about population levels with limited access to foo
 - The purpose of this data is to bring attention to the large percentage of the population in the Carolinas who do not have consistent access to healthy foods. This information was then regarded with obesity levels (a measure of population health) to see how this lack of access impacted North and South Carolina communities.
 ## Where is this data from?
 - This data was taken from County Health Data between the years of 2014-2015, provided by Prof. Gotzler.
-- This data can be accessed [here](https://drive.google.com/file/d/134lz04JTLVIbwfsBmuJOEWcRZFOPvUUo/view)
+  > The original data was condensed according to the steps in the [Feeder_3_1](https://github.com/czhang871/Limited-Access-to-Food-and-Obesity-in-the-Carolinas/blob/main/Feeder_3_1.ipynb) file
+- The original data can be accessed [here](https://drive.google.com/file/d/134lz04JTLVIbwfsBmuJOEWcRZFOPvUUo/view)
 ## What could this data be used for?
 - This data could be for public health officials or activists interested in learning about how the scarcity of healthy food can impact population health.
 - It can also be compared to recent numbers to see how changes in access to healthy foods have impacted community health (through measures such as obesity).
