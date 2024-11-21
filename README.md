@@ -13,11 +13,6 @@ This repository contains data about population levels with limited access to foo
 ## What could this data be used for?
 - This data could be for public health officials or activists interested in learning about how the scarcity of healthy food can impact population health.
 - It can also be compared to recent numbers to see how changes in access to healthy foods have impacted community health (through measures such as obesity).
-
-What might this data and its analysis show us (what might we learn from it)?
-
-1. Potential Use
-2. Secondary Potential Use
 ## Data visualization
 - The subset containing information about population statistics surrounding access to healthy food and adult obesity can be visualized like so:
   
